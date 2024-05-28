@@ -1,0 +1,10 @@
+Package: LXtsmr
+Type: LXtsmr
+Title: LXtsmr
+Version: 2.01.2024
+Author: Dr.Lin
+Maintainer: Dr.Lin <gluck4668@sina.com>
+Description: LXtsmr can be used for tow sample MR analysis.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
